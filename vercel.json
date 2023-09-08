@@ -1,0 +1,6 @@
+// vercel.json
+{
+  "version": 2,
+  "builds": [{ "src": "equations.js", "use": "@vercel/node" }],
+  "routes": [{ "src": "/math", "dest": "equations.js" }]
+}
