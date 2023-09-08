@@ -36,7 +36,7 @@ This is a simple Node.js application that allows you to solve mathematical equat
 
    - The server is capable of generating embed-like previews for mathematical equations.
 
-   - To access an embed-like preview, append `/embed` to the URL followed by your equation, like so: `http://localhost:3000/math/embed/your_equation_here`.
+   - To access an embed-like preview,  to the URL followed by your equation, like so: `http://localhost:3000/math/your_equation_here` and paste it in discord.
 
    - Replace `your_equation_here` with the actual math equation you want to display in the embed.
 
